@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Rex Bold
+font link: https://www.fontsquirrel.com/license/rex
+font author: Fontfabric
+font author site: http://www.fontfabric.com/
+
+
+icon designer: XOXO
+icon designer link: /xoxo
+        
+
+fontColor: {"gradient-0":"#84014E","gradient-1":"#FF0022"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#84014E","gradient-1":"#FF0022"}
+
+      
