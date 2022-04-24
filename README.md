@@ -1,5 +1,4 @@
-# logo
-logo.infreck.com
+# logo.infreck.com
 
 
 ## Font
@@ -44,4 +43,4 @@ Icon
 ---
 
 + [edit](https://github.com/infreck/logo/edit/main/README.md)
-+ [apimacro/logo/](https://github.com/infreck/logo/)
++ [infreck/logo/](https://github.com/infreck/logo/)
